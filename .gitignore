@@ -1,0 +1,7 @@
+SmartMedOpdracht/bin
+SmartMedOpdracht.Tests/obj
+SmartMedOpdracht.Tests/bin
+.vs
+SmartMedOpdracht/obj
+.DS_Store
+SmartMedOpdracht.Tests/.DS_Store
